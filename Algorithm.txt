@@ -1,0 +1,22 @@
+# Read the entire Python File and get the below details
+
+    # Header
+    1. What are the standard unit test cases related libs are required to be imported
+        i.e., from mock import MagicMock, call, patch, unittest, sys
+
+    2. Check what are the standard Python libs used throughout the script
+        i.e., System, datetime
+
+    3. Check what are the CPQ libs used and modules imported
+
+    4. Accordingly set the complete Header
+
+    # Define the structure
+    1. Read the number of functions inside the script and define the number of classes required
+
+    2. Read each function and define the number of unit test cases required for each class
+
+# Actual execution
+
+
+
